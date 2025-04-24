@@ -141,12 +141,12 @@ permalink: /summary/
 
 ### 🖼️ Bloodwork Images
 
-![Blood Test Results 1](/assets/images/blood_test_results_1.jpg)  
-![Blood Test Results 2](/assets/images/blood_test_results_2.jpg)  
-![Blood Test Results 3](/assets/images/blood_test_results_3.jpg)  
-![Blood Test Results 4](/assets/images/blood_test_results_4.jpg)  
-![Blood Test Results 5](/assets/images/blood_test_results_5.jpg)  
-![Blood Test Results 6](/assets/images/blood_test_results_6.jpg)
+![Blood Test Results 1](/assets/images/blood_test_results_1.png)  
+![Blood Test Results 2](/assets/images/blood_test_results_2.png)  
+![Blood Test Results 3](/assets/images/blood_test_results_3.png)  
+![Blood Test Results 4](/assets/images/blood_test_results_4.png)  
+![Blood Test Results 5](/assets/images/blood_test_results_5.png)  
+![Blood Test Results 6](/assets/images/blood_test_results_6.png)
 
 ---
 
