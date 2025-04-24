@@ -11,7 +11,7 @@ permalink: /
 I was born in 1990 with a rigid congenital clubfoot on my left side.  
 I’ve had **three surgeries** (most recent in 2009), lived through **chronic pain**, and developed complications including **gout, severe hypothyroidism, vascular ischemia, and loss of mobility**.
 
-By 2025, I’ve reached the point where **amputation** may offer a better life than continuing to walk in pain.
+By 2025, I’ve reached the point where **amputation** may offer a better life than continuing to walk in severe, constant pain.
 
 This site documents my story—from NICU to now.
 
