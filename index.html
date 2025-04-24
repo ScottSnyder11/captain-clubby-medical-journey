@@ -5,6 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Captain Clubby – Medical Journey</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    .timeline-dot {
+      animation: pulseDot 1.5s ease-in-out infinite;
+    }
+
+    @keyframes pulseDot {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.25); opacity: 0.6; }
+    }
+  </style>
 </head>
 <body class="bg-white text-gray-800">
 
@@ -12,14 +22,14 @@
   <nav class="fixed top-0 left-0 right-0 bg-white shadow z-50 p-4 flex justify-between items-center">
     <div class="text-xl font-bold">Captain Clubby</div>
     <div class="space-x-4">
-      <a href="/" class="hover:underline">Home</a>
+      <a href="/captain-clubby-medical-journey/" class="hover:underline">Home</a>
       <a href="/captain-clubby-medical-journey/summary" class="hover:underline">Summary</a>
       <a href="/captain-clubby-medical-journey/labs" class="hover:underline">Labs</a>
     </div>
   </nav>
 
   <!-- Main Content -->
-  <main class="pt-20 px-4 max-w-3xl mx-auto">
+  <main class="pt-24 px-4 max-w-3xl mx-auto">
     <h1 class="text-3xl font-bold mb-4">Welcome to Captain Clubby’s Medical Journey</h1>
     <p class="mb-6">
       Born in 1990 with a rigid clubfoot, I've undergone multiple surgeries and now face below-knee amputation due to chronic pain, vascular failure, and structural collapse. This site documents my medical history.
@@ -34,7 +44,27 @@
       <li>Planning for amputation</li>
     </ul>
 
-    <img src="/captain-clubby-medical-journey/assets/images/04-2025-swelling.jpg" alt="April 2025 Swelling" class="rounded shadow mb-6" />
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-10">
+      <div>
+        <h3 class="font-semibold mb-2">1990 – NICU</h3>
+        <img src="/captain-clubby-medical-journey/assets/images/nicu.JPG" alt="NICU photo" class="rounded shadow">
+      </div>
+      <div>
+        <h3 class="font-semibold mb-2">2025 – Current Condition</h3>
+        <img src="/captain-clubby-medical-journey/assets/images/04-2025-swelling.jpg" alt="April 2025 Swelling" class="rounded shadow">
+      </div>
+    </div>
+
+    <div class="relative border-l-4 border-blue-500 pl-6 mb-8">
+      <div class="mb-4">
+        <div class="absolute -left-2.5 top-1.5 w-4 h-4 bg-blue-500 rounded-full timeline-dot"></div>
+        <p><span class="font-semibold">1990:</span> Premature birth and NICU care begins the medical journey.</p>
+      </div>
+      <div>
+        <div class="absolute -left-2.5 top-20 w-4 h-4 bg-blue-500 rounded-full timeline-dot"></div>
+        <p><span class="font-semibold">2025:</span> Current condition reveals severe ischemia and deformity. Surgical planning underway.</p>
+      </div>
+    </div>
 
     <a href="/captain-clubby-medical-journey/summary" class="text-blue-500 hover:underline">Read Full Medical Summary →</a>
   </main>
