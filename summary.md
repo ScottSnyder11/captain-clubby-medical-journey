@@ -4,54 +4,57 @@
 
 ---
 
-### 👶 198X – Premature Birth & NICU Stay  
-Born prematurely with early complications, requiring oxygen and intensive support.  
+### 👶 1990 – Birth & NICU Stay  
+Born prematurely in 1990. Early complications required oxygen, ventilation, and intensive neonatal care.  
 ![NICU Stay](/assets/images/nicu.JPG)
 
 ---
 
-### 🦶 2014 – Pre-Third Reconstructive Surgery  
-Visible toe deformity and post-surgical strain beginning to reappear.  
-- These images show baseline condition before full breakdown began.  
+### 🦶 2009 – Pre-Third Reconstructive Surgery  
+Visible toe deformity and rigid clubfoot signs. Pre-operative baseline.  
+- This is before your third and most extensive surgical intervention.  
 
-![2014 Standing View](/assets/images/2014-1.jpg)  
-![2014 Foot Top](/assets/images/2014-2.jpg)  
-![2014 Foot Side View](/assets/images/2014-3.jpg)
+![Pre-Op Standing View](/assets/images/2014-1.jpg)  
+![Foot Top Angle](/assets/images/2014-2.jpg)  
+![Side View of Foot](/assets/images/2014-3.jpg)
 
-Marked foot before surgery, including the infamous self-drawn smiley.  
-![Pre-Op Signature](/assets/images/pre-third-surgery.JPG)
-
----
-
-### 🛠️ 2014 – Post-Op Surgical X-Ray  
-Post-operative radiograph displaying multiple pins and screws after reconstruction.  
-![X-ray Hardware](/assets/images/xray.JPG)
+Pre-surgical signature—drawn personally by the patient (iconic, haunting, adorable).  
+![Smiley Signature](/assets/images/pre-third-surgery.JPG)
 
 ---
 
-### 🩻 2022 – Progressive Deformity & Swelling  
-Worsening visible foot structure, darkened tone, and clear loss of alignment.  
-Chronic gout + structural failure beginning to severely limit mobility.  
-
-![2022 Progression Front View](/assets/images/2022-1.jpg)  
-![2022 Progression Side View](/assets/images/2022-2.jpg)
+### 🛠️ 2009 – Post-Op Surgical X-Ray  
+X-ray following full foot reconstruction. Screws and pins used to align and fix joints.  
+![Hardware X-Ray](/assets/images/xray.JPG)
 
 ---
 
-### 🧨 April 2025 – End-Stage Breakdown  
-Severe ischemia, discoloration, and swelling. Pain worsened, mobility severely impaired.  
-Hospitalized after clots and vascular scans revealed 2 of 3 blocked arteries.
+### 🩻 2022 – Chronic Deterioration  
+Visible swelling, deformity, and discoloration.  
+- Loss of surgical integrity  
+- Progression of gout  
+- Decreased mobility, onset of cane use  
 
-**Photos below taken over 1 week:**
+![2022 Front View](/assets/images/2022-1.jpg)  
+![2022 Side View](/assets/images/2022-2.jpg)
 
-![Hospital Stay (April 2025)](/assets/images/hospital-stay-04-2025.jpg)  
-![Swelling Top Angle](/assets/images/04-2025-swelling.jpg)  
-![April View 1](/assets/images/4-22-25-1.jpeg)  
-![April View 2](/assets/images/4-22-25-2.jpeg)  
-![April View 3](/assets/images/4-22-25-3.jpeg)
+---
+
+### 🧨 April 2025 – Critical Stage  
+Hospitalization, confirmed arterial occlusion (2 of 3 vessels), suspected ischemia.  
+Images from this period show rapid decline in vascular supply, color, and swelling.
+
+**Photos from April 2025:**
+
+![Hospital Stay](/assets/images/hospital-stay-04-2025.jpg)  
+![Severe Swelling](/assets/images/04-2025-swelling.jpg)  
+![April 1](/assets/images/4-22-25-1.jpeg)  
+![April 2](/assets/images/4-22-25-2.jpeg)  
+![April 3](/assets/images/4-22-25-3.jpeg)
 
 ---
 
 ## 📝 Notes
-- Most recent photos indicate loss of viability in foot tissue and worsening arterial supply.
-- Surgery no longer effective. Amputation considered to restore function and relieve systemic burden.
+- Timeline supports documentation for progressive, chronic limb decline.
+- Objective photographic evidence for surgical review, vascular referral, or amputation consideration.
+- Please refer to full clinical summary above for diagnosis and treatment goals.
