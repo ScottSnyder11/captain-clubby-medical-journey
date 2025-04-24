@@ -27,4 +27,23 @@ This site documents my story—from NICU to now.
 
 ---
 
-### 🖼
+### 🖼️ Latest Image – April 2025
+
+*Visible ischemia, discoloration, and critical swelling. Two arteries confirmed non-functional.*
+
+![April 2025 – Swelling](/assets/images/04-2025-swelling.jpg)
+
+---
+
+### 📄 Read Full Medical Summary
+
+For a detailed visual timeline, labs, x-rays, and history:  
+➡️ [Read the full summary](summary)
+
+---
+
+> “I’ve walked on this foot longer than anyone thought I could.  
+> Now I’m ready to walk better—with a new one.”  
+> — Captain Clubby, 2025
+
+---
