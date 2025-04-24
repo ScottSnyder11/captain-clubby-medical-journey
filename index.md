@@ -5,27 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Captain Clubby – Medical Journey</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-  <script>
-    // Dark mode toggle
-    function toggleDarkMode() {
-      document.documentElement.classList.toggle('dark');
-    }
-  </script>
-  <style>
-    body {
-      transition: background-color 0.3s ease, color 0.3s ease;
-    }
-  </style>
 </head>
-<body class="bg-white text-gray-800 dark:bg-gray-900 dark:text-gray-100">
+<body class="bg-white text-gray-800">
 
   <!-- Floating Nav Bar -->
-  <nav class="fixed top-0 left-0 right-0 bg-white dark:bg-gray-800 shadow z-50 p-4 flex justify-between items-center">
+  <nav class="fixed top-0 left-0 right-0 bg-white shadow z-50 p-4 flex justify-between items-center">
     <div class="text-xl font-bold">Captain Clubby</div>
     <div class="space-x-4">
       <a href="/" class="hover:underline">Home</a>
       <a href="/summary" class="hover:underline">Summary</a>
-      <button onclick="toggleDarkMode()" class="px-2 py-1 bg-gray-200 dark:bg-gray-600 rounded">🌓</button>
+      <a href="/labs" class="hover:underline">Labs</a>
     </div>
   </nav>
 
