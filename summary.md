@@ -1,56 +1,52 @@
-
----
-layout: page
-title: Full Medical Summary
-permalink: /summary/
 ---
 
-## Captain Clubby – Medical Summary
+## 📸 Photographic Timeline of Captain Clubby's Left Leg Rebellion
 
 ---
 
-### 🧬 Core Diagnoses & Concerns
-
-- **Clubfoot (left, rigid)** – 3 surgeries, deformity progression
-- **Critical limb ischemia** – 2 of 3 arteries nonfunctional
-- **Gout** – Uric acid: 10.8 mg/dL
-- **Hashimoto’s Thyroiditis** – TSH: 390, Free T4: 0.58, Free T3: 1.62
-- **Hypertension** – 150s/90s, peaked 189/103
-- **Vitamin D Deficiency** – 17.1 ng/mL
-- **Hammertoes** – failed surgical correction on left; developing pain on right
-- **Suspected Malabsorption** – poor med absorption, delayed effects
-- **Elevated Liver Enzymes** – ALT: 108, AST: 76
-- **Severe Mobility Limitations** – cane-dependent, short walking range
-- **Chronic Pain & Mental Fatigue**
+### 🍼 NICU – Day One
+Premature birth with initial complications. Tubes, tape, and tenacity.
+![NICU Newborn](/assets/images/nicu.JPG)
 
 ---
 
-### 🏥 History Summary
+### 🦶 Pre-Third Surgery (2014)
+Foot alignment showing signs of strain and deformity returning.
+![2014 Standing Comparison](/assets/images/2014-1.jpg)
 
-- NICU start (premature birth)
-- Reconstructive surgeries on left foot (latest at age 19)
-- Toe deformities worsened after surgery
-- Chronic pain led to cane use (~3 years ago)
-- Now pursuing **below-knee amputation** for function and relief
-
----
-
-### 🖼️ Photographic Timeline
-
-#### NICU – Day One
-![NICU](/assets/images/nicu.jpg)
-
-#### Pre-Third Surgery (2014)
-![Before Surgery](/assets/images/pre_surgery.jpg)
-
-#### X-ray with Hardware
-![X-ray](/assets/images/xray.jpg)
-
-#### Current State (2025)
-![Current Foot](/assets/images/current_foot.jpg)
+Marked surgical site with hopeful optimism. Yes, the patient drew the smiley.
+![Pre-Op Foot Signature](/assets/images/pre-third-surgery.JPG)
 
 ---
 
-### 🎯 Goals & Requests
+### 🛠️ Surgical Hardware After Third Surgery
+Post-op x-ray showing placement of screws and pins.
+![X-Ray Post Surgery](/assets/images/xray.JPG)
 
-- Amputation of left leg
+---
+
+### ⚠️ Condition Progression – 2022
+Visible increase in swelling, discoloration, and toe misalignment.
+![2022 View 1](/assets/images/2022-1.jpg)
+![2022 View 2](/assets/images/2022-2.jpg)
+
+---
+
+### 🧨 April 2025 – Final Decline
+Severe swelling, darkened tissue tone, and collapse of surgical alignment.
+- Suspected ischemia
+- Gout flare compounding deformity
+- Mobility severely limited
+
+![Swelling Closeup](/assets/images/04-2025-swelling.jpg)
+![Hospital View April 2025](/assets/images/hospital-stay-04-2025.jpg)
+![April View 1](/assets/images/4-22-25-1.jpeg)
+![April View 2](/assets/images/4-22-25-2.jpeg)
+![April View 3](/assets/images/4-22-25-3.jpeg)
+
+---
+
+### 🧵 Honorable Mentions – 2014 Pre-Fall
+Images that highlight the foot before total failure began.
+![2014 Foot Top](/assets/images/2014-2.jpg)
+![2014 Side View](/assets/images/2014-3.jpg)
