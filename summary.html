@@ -1,14 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Captain Clubby – Full Summary</title>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-</head>
-<body class="bg-white text-gray-900">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Captain Clubby – Medical Summary</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
+  <style>
+    .timeline-dot {
+      animation: pulseDot 1.5s ease-in-out infinite;
+    }
 
-  <!-- Nav Bar -->
+    @keyframes pulseDot {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.25); opacity: 0.6; }
+    }
+  </style>
+</head>
+<body class="bg-white text-gray-800">
+
+  <!-- Floating Nav Bar -->
   <nav class="fixed top-0 left-0 right-0 bg-white shadow z-50 p-4 flex justify-between items-center">
     <div class="text-xl font-bold">Captain Clubby</div>
     <div class="space-x-4">
@@ -18,78 +28,41 @@
     </div>
   </nav>
 
-  <!-- Main Content -->
-  <main class="pt-24 px-4 max-w-4xl mx-auto">
-    <h1 class="text-4xl font-bold mb-6">Full Medical Summary</h1>
+  <main class="pt-24 px-4 max-w-3xl mx-auto">
+    <h1 class="text-3xl font-bold mb-6">Medical Summary</h1>
 
-    <section class="mb-8">
-      <h2 class="text-2xl font-semibold mb-2">Clinical Overview</h2>
-      <p>
-        Born in 1990 with a rigid congenital clubfoot on the left, I've undergone three major surgeries (latest in 2009), and now face potential amputation due to progressive ischemia, pain, and loss of mobility. This page captures my full medical story.
-      </p>
-    </section>
+    <p class="mb-8">
+      This page provides a detailed account of my lifelong medical journey—from a congenital clubfoot at birth to ongoing vascular failure and surgical planning for a below-knee amputation.
+    </p>
 
-    <section class="mb-8">
-      <h2 class="text-2xl font-semibold mb-2">Conditions & History</h2>
-      <ul class="list-disc list-inside">
-        <li>Congenital clubfoot (left, rigid)</li>
-        <li>3 corrective surgeries, last in 2009 with screws & pins</li>
-        <li>Chronic gout with progressive deformity and flares</li>
-        <li>Confirmed vascular ischemia: 2 of 3 arteries blocked</li>
-        <li>Severe hypothyroidism (TSH 390), likely malabsorption</li>
-        <li>Hypertension, fatigue, and mobility loss</li>
-      </ul>
-    </section>
+    <h2 class="text-2xl font-semibold mb-6">Timeline Overview</h2>
 
-    <section class="mb-10">
-      <h2 class="text-2xl font-semibold mb-4">Visual Timeline</h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-        <div>
-          <h3 class="text-lg font-medium mb-2">1990 – NICU</h3>
-          <img src="/captain-clubby-medical-journey/assets/images/nicu.JPG" alt="NICU photo" class="rounded shadow">
-        </div>
-        <div>
-          <h3 class="text-lg font-medium mb-2">Pre-Surgery (3rd surgery)</h3>
-          <img src="/captain-clubby-medical-journey/assets/images/pre-third-surgery.JPG" alt="Pre-op foot" class="rounded shadow">
-        </div>
-        <div>
-          <h3 class="text-lg font-medium mb-2">2009 – Post-Surgery X-Ray</h3>
-          <img src="/captain-clubby-medical-journey/assets/images/xray.JPG" alt="X-ray with screws" class="rounded shadow">
-        </div>
-        <div>
-          <h3 class="text-lg font-medium mb-2">2014 – Post-Op Result</h3>
-          <img src="/captain-clubby-medical-journey/assets/images/2014-1.jpg" alt="2014 foot photo" class="rounded shadow">
-        </div>
-        <div>
-          <h3 class="text-lg font-medium mb-2">2022 – Swelling Worsens</h3>
-          <img src="/captain-clubby-medical-journey/assets/images/2022-1.jpg" alt="2022 swelling" class="rounded shadow">
-        </div>
-        <div>
-          <h3 class="text-lg font-medium mb-2">April 2025 – Current Condition</h3>
-          <img src="/captain-clubby-medical-journey/assets/images/04-2025-swelling.jpg" alt="2025 Swollen foot" class="rounded shadow">
-        </div>
-        <div>
-          <h3 class="text-lg font-medium mb-2">Hospital Stay – April 2025</h3>
-          <img src="/captain-clubby-medical-journey/assets/images/hospital-stay-04-2025.jpg" alt="Hospital stay photo" class="rounded shadow">
-        </div>
-        <div>
-          <h3 class="text-lg font-medium mb-2">April 22, 2025 – View 1</h3>
-          <img src="/captain-clubby-medical-journey/assets/images/4-22-25-1.jpeg" alt="April 2025 view 1" class="rounded shadow">
-        </div>
-        <div>
-          <h3 class="text-lg font-medium mb-2">April 22, 2025 – View 2</h3>
-          <img src="/captain-clubby-medical-journey/assets/images/4-22-25-2.jpeg" alt="April 2025 view 2" class="rounded shadow">
-        </div>
-        <div>
-          <h3 class="text-lg font-medium mb-2">April 22, 2025 – View 3</h3>
-          <img src="/captain-clubby-medical-journey/assets/images/4-22-25-3.jpeg" alt="April 2025 view 3" class="rounded shadow">
+    <div class="relative border-l-4 border-blue-500 pl-6 mb-12 space-y-12">
+
+      <!-- 1990 – NICU -->
+      <div class="relative">
+        <div class="absolute -left-2.5 top-1 w-4 h-4 bg-blue-500 rounded-full timeline-dot"></div>
+        <div class="pl-4">
+          <h3 class="font-semibold text-lg mb-2">1990 – NICU</h3>
+          <p class="mb-2 text-sm text-gray-700">Premature birth and NICU care begins the medical journey.</p>
+          <img src="/captain-clubby-medical-journey/assets/images/nicu.JPG" alt="NICU photo" class="rounded shadow mb-4 max-w-xs">
         </div>
       </div>
-    </section>
 
-    <section class="mb-8">
-      <a href="/captain-clubby-medical-journey/labs" class="text-blue-600 hover:underline">→ View Lab Results</a>
-    </section>
+      <!-- 2025 – Current Condition -->
+      <div class="relative">
+        <div class="absolute -left-2.5 top-1 w-4 h-4 bg-blue-500 rounded-full timeline-dot"></div>
+        <div class="pl-4">
+          <h3 class="font-semibold text-lg mb-2">2025 – Current Condition</h3>
+          <p class="mb-2 text-sm text-gray-700">Current condition reveals severe ischemia and deformity. Surgical planning underway.</p>
+          <img src="/captain-clubby-medical-journey/assets/images/04-2025-swelling.jpg" alt="April 2025 Swelling" class="rounded shadow mb-4 max-w-xs">
+        </div>
+      </div>
+
+    </div>
+
+    <!-- The rest of your medical summary content would follow here -->
+
   </main>
 
 </body>
